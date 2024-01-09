@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL: [Live Site URL](https://github.com/jtrivel/password-generator)
+- Live Site URL: [Live Site URL](https://phenomenal-jelly-fa3fb5.netlify.app/)
 
 ### Built with
 
@@ -13,3 +13,4 @@
 ## Author
 
 - Joaquin Trivel Mera
+  git
