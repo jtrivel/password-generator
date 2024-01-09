@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL: [Live Site URL]()
+- Live Site URL: [Live Site URL](https://github.com/jtrivel/password-generator)
 
 ### Built with
 
